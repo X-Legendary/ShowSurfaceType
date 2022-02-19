@@ -1,9 +1,7 @@
 --[[
-
 	Created by X7legendary
 	Source: X-Legendary/ShowSurfaceType
 	The code is a bit of a mess, but at least I am transparent about it.
-
 --]]
 
 local ChangeHistoryService = game:GetService("ChangeHistoryService")
